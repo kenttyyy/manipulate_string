@@ -5,3 +5,5 @@ fullname = input("Please input your fullname ")
 # Converts into a lower case
 lower = fullname.lower()
 
+# Prints lower case
+print(lower)
