@@ -7,3 +7,6 @@ lower = fullname.lower()
 
 # Then replaces space with underscore
 snake = lower.replace(" ","_")
+
+# Print the result
+print(snake)
